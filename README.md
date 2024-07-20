@@ -41,7 +41,8 @@
 
 <div align="center">
 <br>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=mvfrws39lr996y77o14001aic&cover_image=true&theme=default&show_offline=false&background_color=fabbff&interchange=true&bar_color_cover=true"/></div>  
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mvfrws39lr996y77o14001aic&cover_image=true&theme=default&show_offline=false&background_color=fabbff&interchange=true&bar_color_cover=true"/>
+</div>  
 </div>
 
 <br>
